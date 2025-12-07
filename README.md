@@ -46,7 +46,7 @@ Me destacan mi **adaptabilidad**, el **trabajo en equipo** y un fuerte **pensami
 ## 🧪 Áreas de Experiencia
 
 ✅ Pruebas manuales y automatizadas  
-✅ Testing de APIs REST  
+✅ Testing de APIs  
 ✅ Testing Web & Mobile  
 ✅ Automatización de procesos  
 ✅ Reporte y seguimiento de bugs  
@@ -61,7 +61,7 @@ Me destacan mi **adaptabilidad**, el **trabajo en equipo** y un fuerte **pensami
 ### 🔹 Urban Grocers – API Automation
 
 **📌 Contexto del proyecto**  
-Proyecto desarrollado durante el **Bootcamp TripleTen (2025)** enfocado en la automatización de pruebas de **back-end**. El objetivo fue validar la creación de kits de productos mediante pruebas automatizadas del endpoint, asegurando el correcto funcionamiento del campo `name`.
+Proyecto desarrollado durante el **Bootcamp TripleTen (2025)** enfocado en la automatización de pruebas. El objetivo fue validar la creación de kits de productos mediante pruebas automatizadas del endpoint, asegurando el correcto funcionamiento del campo `name`.
 
 **🔍 Mi análisis**  
 Se diseñaron casos de prueba basados en lista de comprobación funcional, aplicando:
@@ -83,7 +83,7 @@ Las pruebas se implementaron con **Python y Pytest**, validando códigos de resp
 ### 🔹 Urban Routes – UI Automation
 
 **📌 Contexto del proyecto**  
-Proyecto desarrollado durante el **Bootcamp TripleTen (2025)** orientado a la automatización de pruebas **end-to-end (E2E)** en la aplicación Urban Routes, simulando el flujo real de solicitud de taxi.
+Proyecto desarrollado durante el **Bootcamp TripleTen (2025)** orientado a la automatización de pruebas en la aplicación Urban Routes, simulando el flujo real de solicitud de taxi.
 
 **🔍 Mi análisis**  
 Se automatizó el flujo completo de:
