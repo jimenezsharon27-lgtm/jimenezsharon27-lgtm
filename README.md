@@ -28,27 +28,11 @@ Me destacan mi **adaptabilidad**, el **trabajo en equipo** y un fuerte **pensami
 
 ---
 
-## 🚀 Tecnologías y Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,postman,github,git,jira,vscode,androidstudio,html,css&perline=5" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API%20Testing-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge"/>
-</p>
-
----
-
 ## 🧪 Áreas de Experiencia
 
 ✅ Pruebas manuales y automatizadas  
 ✅ Testing de APIs  
-✅ Testing Web & Mobile  
-✅ Automatización de procesos  
+✅ Testing Web & Mobile   
 ✅ Reporte y seguimiento de bugs  
 ✅ Documentación técnica  
 ✅ Análisis de datos operativos  
