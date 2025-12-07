@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=Sharon%20Jim%C3%A9nez&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">QA Engineer | Ingeniera Civil | Automatización de Pruebas</h2>
+<h2 align="center">QA Engineer | Ingeniera Civil </h2>
 
 <p align="center">
 📍 Pereira, Colombia 🇨🇴
