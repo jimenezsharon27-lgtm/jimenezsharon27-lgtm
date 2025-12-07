@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=Sharon%20Jim%C3%A9nez&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">QA Engineer | Ingeniera Civil </h2>
+<h2 align="center">QA Engineer junior | Ingeniera Civil </h2>
 
 <p align="center">
 📍 Pereira, Colombia 🇨🇴
@@ -12,9 +12,9 @@
 
 ## ✨ Sobre mí
 
-Soy **Ingeniera Civil y QA Engineer** con experiencia en **pruebas manuales y automatizadas** en proyectos **web, mobile y APIs**.
+Soy **Ingeniera Civil y QA Engineer junior** con manejo en **pruebas manuales y automatizadas** en proyectos **web, mobile y APIs**.
 
-Domino herramientas como **Selenium, Postman, SQL y Python**, trabajando bajo metodologías **Ágiles** con **JIRA y GitHub**.
+Domino herramientas como **Selenium, Postman, SQL y Python**, **JIRA y GitHub**.
 
 Me destacan mi **adaptabilidad**, el **trabajo en equipo** y un fuerte **pensamiento analítico** orientado a la calidad del software.
 
