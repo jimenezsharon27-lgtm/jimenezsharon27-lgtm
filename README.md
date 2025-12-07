@@ -20,6 +20,14 @@ Me destacan mi **adaptabilidad**, el **trabajo en equipo** y un fuerte **pensami
 
 ---
 
+## 💡 Lo que puedo aportar a tu equipo
+
+✔ Garantizar la calidad del software con enfoque preventivo  
+✔ Reducir errores en producción mediante pruebas automatizadas  
+✔ Aportar visión analítica y estructurada en procesos ágiles
+
+---
+
 ## 🚀 Tecnologías y Herramientas
 
 <p align="center">
@@ -44,20 +52,55 @@ Me destacan mi **adaptabilidad**, el **trabajo en equipo** y un fuerte **pensami
 ✅ Reporte y seguimiento de bugs  
 ✅ Documentación técnica  
 ✅ Análisis de datos operativos  
-✅ Gestión de proyectos
+✅ Gestión de proyectos  
 
 ---
 
 ## 📂 Proyectos Destacados
 
-🔹 **Urban Grocers – API Automation**  
+### 🔹 Urban Grocers – API Automation
+
+**📌 Contexto del proyecto**  
+Proyecto desarrollado durante el **Bootcamp TripleTen (2025)** enfocado en la automatización de pruebas de **back-end**. El objetivo fue validar la creación de kits de productos mediante pruebas automatizadas del endpoint, asegurando el correcto funcionamiento del campo `name`.
+
+**🔍 Mi análisis**  
+Se diseñaron casos de prueba basados en lista de comprobación funcional, aplicando:
+- Valores límite
+- Particiones de clases de equivalencia
+- Casos negativos y escenarios de error
+
+Las pruebas se implementaron con **Python y Pytest**, validando códigos de respuesta HTTP y estructuras JSON.
+
+**✅ Conclusiones principales**  
+- Cobertura completa de escenarios positivos y negativos.  
+- Validación de la estabilidad del endpoint.  
+- Documentación y trazabilidad completa mediante GitHub.
+
 👉 https://github.com/jimenezsharon27-lgtm/qa-project-Urban-Grocers-app-es
 
-🔹 **Urban Routes – UI Automation**  
-👉 https://github.com/jimenezsharon27-lgtm/qa-project-Urban-Routes-es
+---
 
-🔹 **API Stand Tests**  
-👉 https://github.com/jimenezsharon27-lgtm/api_stand_tests
+### 🔹 Urban Routes – UI Automation
+
+**📌 Contexto del proyecto**  
+Proyecto desarrollado durante el **Bootcamp TripleTen (2025)** orientado a la automatización de pruebas **end-to-end (E2E)** en la aplicación Urban Routes, simulando el flujo real de solicitud de taxi.
+
+**🔍 Mi análisis**  
+Se automatizó el flujo completo de:
+- Selección de tarifa  
+- Ingreso de teléfono  
+- Vinculación de tarjeta con código de confirmación  
+- Solicitud de extras  
+- Validación del modal de búsqueda de conductor  
+
+Se utilizó el patrón **Page Object Model (POM)** con Selenium y Pytest.
+
+**✅ Conclusiones principales**  
+- Automatización completa del escenario crítico de reserva.  
+- Aplicación de buenas prácticas de automatización y mantenibilidad.  
+- Documentación técnica y gestión del código en GitHub.
+
+👉 https://github.com/jimenezsharon27-lgtm/qa-project-Urban-Routes-es
 
 ---
 
