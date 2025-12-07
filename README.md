@@ -42,7 +42,7 @@ Me destacan mi **adaptabilidad**, el **trabajo en equipo** y un fuerte **pensami
 
 ## 📂 Proyectos Destacados
 
-### 🔹 Urban Grocers – API Automation
+### 🔹 Urban Grocers – Automatización de pruebas
 
 **📌 Contexto del proyecto**  
 Proyecto desarrollado durante el **Bootcamp TripleTen (2025)** enfocado en la automatización de pruebas. El objetivo fue validar la creación de kits de productos mediante pruebas automatizadas del endpoint, asegurando el correcto funcionamiento del campo `name`.
@@ -64,7 +64,7 @@ Las pruebas se implementaron con **Python y Pytest**, validando códigos de resp
 
 ---
 
-### 🔹 Urban Routes – UI Automation
+### 🔹 Urban Routes – Automatización de pruebas
 
 **📌 Contexto del proyecto**  
 Proyecto desarrollado durante el **Bootcamp TripleTen (2025)** orientado a la automatización de pruebas en la aplicación Urban Routes, simulando el flujo real de solicitud de taxi.
